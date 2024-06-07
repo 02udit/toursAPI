@@ -1,0 +1,17 @@
+# Ignore environment variables file
+config.env
+
+# Ignore node_modules directory
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore Dockerfile itself
+Dockerfile
+
+# Ignore .dockerignore file
+.dockerignore
+
+# Ignore npm debug file
+npm-debug.log
